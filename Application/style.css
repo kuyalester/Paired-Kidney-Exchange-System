@@ -1,0 +1,36 @@
+body, html{
+    height: 100%;
+}
+
+body{
+    margin: 0px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+#bg-image{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("background.jpg");
+    background-size: 500px;
+    filter: blur(8px);
+    height: 100%;
+}
+
+#login{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    height: 220px;
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    box-shadow: 0 0 10px black;
+}
+
+#login input{
+    font-size: 18px;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
