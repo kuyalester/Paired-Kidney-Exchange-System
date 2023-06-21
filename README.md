@@ -9,12 +9,12 @@ A web application that enables hospitals to search for compatible kidney donors 
 
 3. Once logged in you can see a list of families admitted to that hospital and different button options.
 
-    Add family - add a family record to the hospital, it will ask for the patient's information and the donor's information. (it will add the family to the database)
-    Delete family - delete the selected family from the hospital. (it will delete the family from the database)
-    Search family - searches a family in the hospital based on the given string. 
-    Edit family - edit/update the information of the selected family from the hospital. (it will update the family from the database)
-    Match family - Searches for matches for the family in the database, then display all the matches for that family.
-    Log out - log out from the hospital account, will go back to index.html once logged out.
+   **Add family** - add a family record to the hospital, it will ask for the patient's information and the donor's information. (it will add the family to the database)     <br><br>
+    **Delete family**- delete the selected family from the hospital. (it will delete the family from the database)<br><br>
+   **Search family** - searches a family in the hospital based on the given string. <br><br>
+    **Edit family**- edit/update the information of the selected family from the hospital. (it will update the family from the database)<br><br>
+    **Match family** - Searches for matches for the family in the database, then display all the matches for that family.<br><br>
+    **Log out** - log out from the hospital account, will go back to index.html once logged out.<br><br>
 
 
 A demo recording on how to set-up and use the web app can be accessed here: https://drive.google.com/drive/folders/1XWONbeRKWdRs377-BKoYZlak5HXq13sa?usp=drive_link
